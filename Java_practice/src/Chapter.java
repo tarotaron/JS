@@ -4,7 +4,7 @@ public class Chapter {
 		String name;
 		name = "suzu";
 		System.out.println(name);
-		name = "nami";
+		name = "kebi";
 		System.out.println(name);
 		int number;
 		number = 8;
