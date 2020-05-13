@@ -18,6 +18,7 @@
             <entry path="/private/var/folders/7r/kh65xgj56nncmyx45rmg00lh0000gn/T/AppTranslocation/35EE85D8-D408-4CA8-824C-74713AF05C52/d/Eclipse_2020-03.app/Contents/java/8/Home/jre/lib/endorsed"/>
         </endorsedDirs>
     </libraryInfo>
+    <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk-14.0.1.jdk/Contents/Home" version="14.0.1"/>
     <libraryInfo home="/private/var/folders/7r/kh65xgj56nncmyx45rmg00lh0000gn/T/AppTranslocation/35EE85D8-D408-4CA8-824C-74713AF05C52/d/Eclipse_2020-03.app/Contents/java/6/Home" version="1.6.0_65">
         <bootpath>
             <entry path="/private/var/folders/7r/kh65xgj56nncmyx45rmg00lh0000gn/T/AppTranslocation/35EE85D8-D408-4CA8-824C-74713AF05C52/d/Eclipse_2020-03.app/Contents/java/6/Classes/jsfd.jar"/>
@@ -37,6 +38,7 @@
             <entry path="/private/var/folders/7r/kh65xgj56nncmyx45rmg00lh0000gn/T/AppTranslocation/35EE85D8-D408-4CA8-824C-74713AF05C52/d/Eclipse_2020-03.app/Contents/java/6/Home/lib/endorsed"/>
         </endorsedDirs>
     </libraryInfo>
+    <libraryInfo home="/Applications/Eclipse_2020-03.app/Contents/java/11/Home" version="11.0.6"/>
     <libraryInfo home="/private/var/folders/7r/kh65xgj56nncmyx45rmg00lh0000gn/T/AppTranslocation/35EE85D8-D408-4CA8-824C-74713AF05C52/d/Eclipse_2020-03.app/Contents/java/14/Home" version="14"/>
     <libraryInfo home="/private/var/folders/7r/kh65xgj56nncmyx45rmg00lh0000gn/T/AppTranslocation/35EE85D8-D408-4CA8-824C-74713AF05C52/d/Eclipse_2020-03.app/Contents/java/11/Home" version="11.0.6"/>
     <libraryInfo home="/private/var/folders/7r/kh65xgj56nncmyx45rmg00lh0000gn/T/AppTranslocation/35EE85D8-D408-4CA8-824C-74713AF05C52/d/Eclipse_2020-03.app/Contents/java/7/Home" version="1.7.0_80">
