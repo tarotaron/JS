@@ -1,6 +1,7 @@
 class Member {
 	String name;
-	Member(String name ) {
+	
+	Member(String name) {
 		this.name = name;
 	}
 	
@@ -16,6 +17,8 @@ public class Constructer {
 	public static void main (String[] args) {
 		Member tom;
 		tom = new Member(); 
+		System.out.println(tom.name);
+		tom = new Member("suzu"); 
 		System.out.println(tom.name);
 		tom.sayHi();
 	}
